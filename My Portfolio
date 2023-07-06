@@ -1,7 +1,69 @@
+<!DOCTYPE html>
 <html>
-<head><title>Portfolio</title></head>
-<h1>PORTFOLIO</h1>
-<body bgcolor="red">
-<p>yay</p>
+<head><title>PORTFOLIO</title>
+<style type="text/css">
+.txt1{font-size:28pt;font-family:Consolas;text-align:center;color:orange;background:black}
+.txt2{font-family:Consolas;text-align:center;font-size:32pt}
+.txt3{font-size:18pt;font-family:Consolas;text-align:left}
+.txt4{font-family:Consolas;text-align:left}
+.txt5{font-family:Consolas}	
+</style>
+<body>
+<h1 class="txt2">KALPESH BHANDARI</h1>
+<h2 class="txt2">MY PORTFOLIO</h2>
+<p class="txt1">-INTRODUCTION-</p>
+<p class="txt3">I'm a creative, curious and kind 13 year old student who studies at Millsberry school. 
+I aim to beacome a succesful IT engineer in the future. With that new profound skill I hope to work
+for a good cause. I'm really looking forward to create well demanded start-up in the market. With the
+current experiences I can become the best part of myself</p><hr>
+<p class="txt1">-REFERENCES-</p>
+<ul>
+<li style="color:red">lol</li>
+<li>Suraj Sir(Teacher)</li>
+<li>Grade-9 Teacher</li>
+<li>Millsberry Int'l School</li>
+<li>Bansbari, Kathmandu</li>
+<li>Tel:9843753704</li>
+<li>Email:suraj123@gmail.com</li>
+</ul>
+<ul>
+<li>Raj sir(Computer HOD)</li>
+<li>All grades teacher</li>
+<li>Millsberry Int'l School</li>
+<li>Bansbari, Kathmandu</li>
+<li>Tel:9854872109</li>
+<li>Email:raj123@gmail.com</li>
+</ul>
+<hr>
+<p class="txt1">-EDUCATIONAL QUALIFICATIONS-</p>
+<table class="txt5" border="1">
+<tr>
+<th>Grade</th>
+<th>School/Instituition</th>
+<th>Examination-Level</th>
+<th>Score</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Millsberry Int'l School</td>
+<td>Primary-level</td>
+<td>A+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Millsberry Int'l School</td>
+<td>Secondary-level</td>
+<td>A</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Millsberry Int'l School</td>
+<td>Basic-level</td>
+<td>A+</td>
+</tr>
+</table>
+<hr>
+<p class="txt3">By now you must have come to the end of this portfolio so please let me know
+where I can improve.</p>
 </body>
-</html>
+</html> 
